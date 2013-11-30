@@ -1,6 +1,7 @@
 var MoreTopics = {};
 (function () {
         MoreTopics.addTopic = function () {
+		{
         GDT.addTopics([
                 {
                         id: "Incremental",
