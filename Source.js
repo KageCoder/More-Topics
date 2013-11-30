@@ -1,6 +1,7 @@
 var MoreTopics = {};
 (function () {
         MoreTopics.addTopic = function () {
+		{
         GDT.addTopics([
                 {
                         id: "Incremental",
@@ -27,107 +28,107 @@ var MoreTopics = {};
                         name: "MOBA".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-			    },  {
+				},  {
                         id: "Creation",
                         name: "Creation".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-			   },  {
+				},  {
                         id: "Sandbox",
                         name: "Sandbox".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-              },  {
+				},  {
                         id: "Wrestling",
                         name: "Wrestling".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-              },  {
+				},  {
                         id: "Jigsaw",
                         name: "Jigsaw".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-			 },  {		
+				},  {		
                         id: "Bacon",
                         name: "Bacon".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-             },  { 
+				},  { 
                         id: "Chicken",
                         name: "Chicken".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-			 },  { 
+				},  { 
                         id: "Steam Punk",
                         name: "Steam Punk".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-			 },  { 
+				},  { 
                         id: "Prehistoric",
                         name: "Prehistoric".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]			
-			 },  { 
+				},  { 
                         id: "Magic",
                         name: "Magic".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]	
-			 },  { 
+				},  { 
                         id: "Love Craft",
                         name: "Love Craft".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-             },  { 
+				},  { 
                         id: "Alchemy",
                         name: "Alchemy".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-             },  { 
+				},  { 
                         id: "Music",
                         name: "Music".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-             },  { 
+				},  { 
                         id: "Platformer",
                         name: "Platformer".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-             },  { 
+				},  { 
                         id: "Super Hero",
                         name: "Super Hero".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-			 },  { 
+				},  { 
                         id: "Conquest",
                         name: "Conquest".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]				
-			 },  { 
+				},  { 
                         id: "Turn Based",
                         name: "Turn Based".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-             },  { 
+				},  { 
                         id: "Mythology",
                         name: "Mythology".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-             },  { 
+				},  { 
                         id: "Trading Cards",
                         name: "Trading Cards".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-             },  { 
+				},  { 
                         id: "Super Villain",
                         name: "Super Villain".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-             },  { 
+				},  { 
                         id: "Rhythm",
                         name: "Rhythm".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]		
-              },  { 
+				},  { 
                         id: "Party Game",
                         name: "Party Game".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
@@ -371,9 +372,10 @@ var MoreTopics = {};
                 },  { 
                         id: "Cave Men",
                         name: "Cave Men".localize("game topic"),
-                        genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
-                        audienceWeightings: [0.8, 1, 0.8]
-                    }
-            ]);
-        };                      
-})();
+						genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
+						audienceWeightings: [0.6, 1, 1]
+				}
+			]);
+		};
+
+	})();
