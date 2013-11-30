@@ -380,37 +380,36 @@ var MoreTopics = {};
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
 						
-				},  { 
+		},  { 
                         id: "Saint Patricks Day",
                         name: "Saint Patricks Day".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-				},  { 
+		},  { 
                         id: "Treasure Hunt",
                         name: "Treasure Hunt".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-				},  { 
+		},  { 
                         id: "Resource Management",
                         name: "Resource Management".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-				},  { 
+		},  { 
                         id: "Murder",
                         name: "Murder".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-				},  { 
+		},  { 
                         id: "Rocks",
                         name: "Rocks".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]
-				},  { 
+		},  { 
                         id: "Gems",
                         name: "Gems".localize("game topic"),
                         genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
                         audienceWeightings: [0.8, 1, 0.8]		
-                	}
-			]);
-		};         
+                }]);
+	};
 })();
