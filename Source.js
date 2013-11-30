@@ -371,9 +371,10 @@ var MoreTopics = {};
                 },  { 
                         id: "Cave Men",
                         name: "Cave Men".localize("game topic"),
-                        genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
-                        audienceWeightings: [0.8, 1, 0.8]
-                    }
-            ]);
-        };                      
+						genreWeightings: [0.6, 0.6, 0.6, 1, 0.7, 1],
+						audienceWeightings: [0.6, 1, 1]
+				}
+	    ]);
+	};
+
 })();
