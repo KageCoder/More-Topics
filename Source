@@ -352,6 +352,91 @@ var MoreTopics = {};
 			id: "Monkey",
 			name: "Monkey".localize("game topic"),
 			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Haunted House",
+			name: "Haunted House".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]	
+		}, {
+			id: "April Fools",
+			name: "April Fools".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Saint Patricks Day",
+			name: "Saint Patricks Day".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Skill",
+			name: "Skill".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Destruction",
+			name: "Destruction".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Ducks",
+			name: "Ducks".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Drumming",
+			name: "Drumming".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Capture The Flag",
+			name: "Capture The Flag".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Luck",
+			name: "Luck".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Money",
+			name: "Money".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Tag",
+			name: "Tag".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Safari",
+			name: "Safari".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Carnival",
+			name: "Carnival".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Evolution",
+			name: "Evolution".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Construction",
+			name: "Construction".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Snakes",
+			name: "Snakes".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Sharks",
+			name: "Sharks".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
 			audienceWeightings: [0.6, 0.9, 1]	
 		}]);
         };
