@@ -1,12 +1,12 @@
 {
-	"id" : "Updated Often so",
-	"name" : "More Topics",
-	"version": "0.1",
-	"author": "UltraPirate",
-	"description" : "More Topics",
-	"url" : "https://github.com/KageCoder/More-Topics",
-	"main" : "./myScript.js",
-	"dependencies" : {
-		"gdt-modAPI":"0.1.x"
-	}
+        "id" : "Updated Often so often",
+        "name" : "More Topics",
+        "version": "1.0",
+        "author": "UltraPirate",
+        "description" : "More Topics",
+        "url" : "https://github.com/KageCoder/More-Topics",
+        "main" : "./myScript.js",
+        "dependencies" : {
+                "gdt-modAPI":"0.1.x"
+        }
 }
