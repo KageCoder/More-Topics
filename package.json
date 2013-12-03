@@ -2,7 +2,7 @@
         "id" : "Updated Often so often",
         "name" : "More Topics",
         "version": "1.0",
-        "author": "UltraPirate",
+        "author": "KageCoder",
         "description" : "More Topics",
         "url" : "https://github.com/KageCoder/More-Topics",
         "main" : "./myScript.js",
