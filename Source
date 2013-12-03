@@ -436,6 +436,31 @@ var MoreTopics = {};
 			id: "Sharks",
 			name: "Sharks".localize("game topic"),
 			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Recycling",
+			name: "Recycling".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Cthulu",
+			name: "Cthulu".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Norse",
+			name: "Norse".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Greek",
+			name: "Greek".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Army",
+			name: "Army".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
 			audienceWeightings: [0.6, 0.9, 1]	
 		}
 	    ]);
