@@ -18,3 +18,11 @@ Adds 65 New Topics to GDT
 0.7 Added 34 new Topics
 
 0.8 Added 16 new topics
+
+0.9 Added 3 Topics
+
+1.0 Fixed broken code
+
+1.1 Added 10 new topics
+
+1.2 Fixed code again
