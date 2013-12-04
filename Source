@@ -481,6 +481,96 @@ var MoreTopics = {};
 			id: "Battleship",
 			name: "Battleship".localize("game topic"),
 			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Doggys",
+			name: "Doggys".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Supreme Strategy",
+			name: "Supreme Strategy".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Diving",
+			name: "Diving".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Driving",
+			name: "Driving".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Olympics",
+			name: "Olympics".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Dungeoning",
+			name: "Dungeoning".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "City Rampage",
+			name: "City Rampage".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Food Chain",
+			name: "Food Chain".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Natural Disasters",
+			name: "Natural Disasters".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Chain Reaction",
+			name: "Chain Reaction".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Coding",
+			name: "Coding".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Art",
+			name: "Art".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Mario",
+			name: "Mario".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Sonic",
+			name: "Sonic".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "God Game",
+			name: "God Game".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Lochness Monster",
+			name: "Lochness Monster".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Planting",
+			name: "Planting".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Trampoline",
+			name: "Trampoline".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
 			audienceWeightings: [0.6, 0.9, 1]	
 		}
 	    ]);
