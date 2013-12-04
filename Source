@@ -1,7 +1,7 @@
 var MoreTopics = {};
 (function () {
         MoreTopics.addTopic = function () {
-		GDT.addTopics([
+                GDT.addTopics([
 		{
 		    id: "Incremental",
 		    name: "Incremental".localize("game topic"),
@@ -461,10 +461,29 @@ var MoreTopics = {};
 			id: "Army",
 			name: "Army".localize("game topic"),
 			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Apocalypse",
+			name: "Apocalypse".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Pirates",
+			name: "Pirates".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Navy",
+			name: "Navy".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
+			audienceWeightings: [0.6, 0.9, 1]
+		}, {
+			id: "Battleship",
+			name: "Battleship".localize("game topic"),
+			genreWeightings: [1, 0.6, 0.9, 0.8, 1, 0.7],
 			audienceWeightings: [0.6, 0.9, 1]	
 		}
 	    ]);
 	};
-	
-	 /*  */		       
+	/*  */		       
 })();
